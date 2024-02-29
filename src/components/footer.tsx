@@ -1,4 +1,5 @@
 import { MapPin } from "lucide-react";
+import Link from "next/link";
 
 export function Footer() {
   return (
@@ -11,7 +12,7 @@ export function Footer() {
 
         <div>
           <p className="text-lg font-semibold">Contacts</p>
-          <address>
+          <address className="text-slate-300 mt-1">
             <MapPin className="inline-block w-5 h-5 mt-0.5" />
             135 Walnut St, 
             <br />
@@ -19,6 +20,9 @@ export function Footer() {
           </address>
         </div>
       </div>
+      <p className="text-center pt-20 pb-4 text-slate-400">
+        © 2024 EState, Designed with 💜 by <Link href="https://www.github.com/galembeck" target="_blank">Pedro Galembeck</Link>
+      </p>
     </footer>
   );
 }
