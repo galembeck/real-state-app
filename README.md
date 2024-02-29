@@ -1,36 +1,72 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# ☕ | EState (Real State Application)
 
-## Getting Started
+Bem-vindo(a) ao repositório que contém a estrutura de um projeto baseado em uma aplicação de aluguel de moradias (casas, apartamentos, escritórios, etc) da América do Norte.
 
-First, run the development server:
+O objetivo desse projeto é estudar as ferramentas e tecnologias de desenvolvimento web mais utilizadas no mercado atualmente, sendo elas, principalmente, o [TailwindCSS](https://tailwindcss.com/) and [Shadcn-UI](https://ui.shadcn.com/).
+
+> ⚠️ **É importante ressaltar que este projeto/repositório se encontra em constante atualização.**
+
+Happy hacking!
+
+## 🧠 Contexto
+
+![Protótipo](./.github/readme-image.png)
+
+O projeto consiste em criar uma interface de locação de imóveis (casas, apartamentos, escritórios, etc) da América do Norte (Real State), na qual foram utilizadas as seguintes ferramentas/tecnologias:
+
+- [x] [Next.js](https://nextjs.org/)
+- [x] [TypeScript](https://www.typescriptlang.org/)
+- [x] [TailwindCSS](https://tailwindcss.com/)
+- [x] [Shadcn-UI](https://ui.shadcn.com/) 
+
+## 🤝 Colaboradores
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/galembeck" title="Pedro Galembeck">
+        <img src="https://avatars.githubusercontent.com/u/51977156?v=4" width="100px;" alt="Avatar de Pedro Galembeck (Github)"/><br>
+        <sub>
+          <b>Pedro Galembeck</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
+## 📋 Instruções
+
+Para visualizar o projeto acima, basta seguir as instruções abaixo.
+
+- Utilize o [deploy](https://galembeck-estate.vercel.app/) na vercel para abrir o link de visualização.
+  > https://galembeck-estate.vercel.app/
+
+## 🖥️ Instalação
+
+### EState (Real State Application)
+
+1. Clone este repositório:
+
+```bash
+git clone https://github.com/galembeck/real-state-app.git
+```
+
+1. Abra a pasta do projeto (_real-state-app_):
+
+```bash
+cd real-state-app
+```
+
+3. Instale as dependências utilizadas:
+
+```bash
+npm install
+```
+
+3. Inicie o projeto:
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Made with 💜 by Pedro Galembeck.
