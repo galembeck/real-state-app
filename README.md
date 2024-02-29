@@ -2,7 +2,7 @@
 
 Bem-vindo(a) ao repositório que contém a estrutura de um projeto baseado em uma aplicação de aluguel de moradias (casas, apartamentos, escritórios, etc) da América do Norte.
 
-O objetivo desse projeto é estudar as ferramentas e tecnologias de desenvolvimento web mais utilizadas no mercado atualmente, sendo elas, principalmente, o [TailwindCSS](https://tailwindcss.com/) and [Shadcn-UI](https://ui.shadcn.com/).
+O objetivo desse projeto é estudar as ferramentas e tecnologias de desenvolvimento web mais utilizadas no mercado atualmente, sendo elas, principalmente, o [TailwindCSS](https://tailwindcss.com/) e [Shadcn-UI](https://ui.shadcn.com/).
 
 > ⚠️ **É importante ressaltar que este projeto/repositório se encontra em constante atualização.**
 
